@@ -1,16 +1,16 @@
 ---
 title: Medical Coach
-datePublished: '2017-06-07T10:26:40.017Z'
-dateModified: '2017-06-07T10:26:39.339Z'
+datePublished: '2017-06-07T13:23:36.228Z'
+dateModified: '2017-06-07T13:23:34.533Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
 description: Ihr habt es euch verdient!
 via: {}
-sourcePath: _posts/2017-06-06-medical-coach.md
 starred: true
 datePublishedOriginal: '2017-06-06T20:52:18.488Z'
+sourcePath: _posts/2017-06-06-medical-coach.md
 url: medical-coach/index.html
 _type: Article
 _context: 'http://schema.org'
