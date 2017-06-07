@@ -1,17 +1,6 @@
-name: PrimeFit
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63aa34cf-9654-4cf6-b4a7-44c935b116e7.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d29573cd-33bc-4353-8131-be4143eb00a0.jpg
-layout_spectrum: 0.874684969894588
 typography_spectrum: 0.7190257837064564
-analytics:
-  twitter: Herr
-opengraph:
-  type: Medical Fitness
-  appId: 'https://www.facebook.com/primefit121/'
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf835e1-ffec-489c-b494-6d0bf6a8ca47.jpg
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -23,20 +12,34 @@ color:
   lightness: 0.7874887136276811
   saturation: 0.2550325335469097
   rhythmicContrast: 0.22980797197669744
-purpose:
-  - type: contact
-    label: E-Mail me
-    url: 'mailto:rbecker@prime-fit-121.de'
-  - type: external
-    label: Facebook
-    url: 'https://www.facebook.com/primefit121/'
-title: Medical Training / Wettkampf Betreuung
-description: Beseitigung von Dysbalancen orthopädischer Natur
+github: true
+opengraph:
+  type: Medical Fitness
+  appId: 'https://www.facebook.com/primefit121/'
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf835e1-ffec-489c-b494-6d0bf6a8ca47.jpg
+layout_spectrum: 0.874684969894588
+analytics:
+  twitter: Herr
 author:
   name: Rene Becker
   email: rbecker@prime-fit-121.de
-content_rating:
-  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d29573cd-33bc-4353-8131-be4143eb00a0.jpg
+name: PrimeFit
+navigation:
+  - name: Medical Fitness / PT
+    id: b0bc4906-3d76-457d-8804-8e0560e09ed8
+    type: content
+  - name: Saison 2017
+    id: cff959ae-89b1-4a93-9920-22ae4475ae0d
+    type: content
+  - name: Wir unterwegs
+    id: 3e4fc9b1-5a3c-433b-b1b2-16bdd6d53cbd
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63aa34cf-9654-4cf6-b4a7-44c935b116e7.jpg
+title: Medical Training/Athleten Coaching
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -80,4 +83,11 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
+description: Beseitigung von Dysbalancen orthopädischer Natur
+purpose:
+  - type: contact
+    label: E-Mail me
+    url: 'mailto:rbecker@prime-fit-121.de'
+  - type: external
+    label: Facebook
+    url: 'https://www.facebook.com/primefit121/'
