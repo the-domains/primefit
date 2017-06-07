@@ -31,11 +31,11 @@ navigation:
   - name: Medical Fitness / PT
     id: b0bc4906-3d76-457d-8804-8e0560e09ed8
     type: content
-  - name: Wir unterwegs
-    id: 3e4fc9b1-5a3c-433b-b1b2-16bdd6d53cbd
-    type: content
   - name: Saison 2017
     id: cff959ae-89b1-4a93-9920-22ae4475ae0d
+    type: content
+  - name: Wir unterwegs
+    id: 3e4fc9b1-5a3c-433b-b1b2-16bdd6d53cbd
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/63aa34cf-9654-4cf6-b4a7-44c935b116e7.jpg
