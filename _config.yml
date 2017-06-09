@@ -1,24 +1,24 @@
-typography_spectrum: 0.7190257837064564
-content_rating:
-  adult: false
+layout_spectrum: 0.6703945547487993
+typography_spectrum: 0.5232461857685985
 color:
   brandColors:
-    - '#000000'
-    - '#808080'
     - '#FFFFFF'
-    - '#C0C0C0'
-    - '#333333'
-  brandStrength: 0.2552195694297552
-  lightness: 0.7874887136276811
-  saturation: 0.2550325335469097
-  rhythmicContrast: 0.22980797197669744
+    - '#0E0E0E'
+    - '#ECD5B6'
+    - '#9D9389'
+    - '#675D54'
+  brandStrength: 0.2763802294829621
+  lightness: 0.49772342530752317
+  saturation: 0.6156634264338835
+  rhythmicContrast: 0.15419527996276128
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: Medical Fitness
   appId: 'https://www.facebook.com/primefit121/'
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/faf835e1-ffec-489c-b494-6d0bf6a8ca47.jpg
-layout_spectrum: 0.874684969894588
 analytics:
   twitter: Herr
 author:
@@ -28,15 +28,18 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d29573cd-33bc-4353-8131-be4143eb00a0.jpg
 name: PrimeFit
 navigation:
-  - name: Wir unterwegs
-    id: 3e4fc9b1-5a3c-433b-b1b2-16bdd6d53cbd
+  - name: Medical Fitness / PT
+    id: b0bc4906-3d76-457d-8804-8e0560e09ed8
     type: content
   - name: Saison 2017
     id: cff959ae-89b1-4a93-9920-22ae4475ae0d
     type: content
+  - name: Wir unterwegs
+    id: 3e4fc9b1-5a3c-433b-b1b2-16bdd6d53cbd
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/63aa34cf-9654-4cf6-b4a7-44c935b116e7.jpg
-title: Medical Training / Wettkampf Betreuung
+title: Medical Training/Athleten Coaching
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
