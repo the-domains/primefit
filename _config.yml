@@ -50,6 +50,9 @@ navigation:
   - name: Impressum
     id: 5046d78d-1d08-4ab2-978a-b61a97f14d5c
     type: content
+  - name: Systemvorstellung
+    id: 1ef77893-5ec8-4dc8-bae2-b398df767af3
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
