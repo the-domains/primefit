@@ -1,13 +1,13 @@
 ---
-title: ''
-dateModified: '2017-06-22T16:39:51.341Z'
+title: 85% der deutschen haben mehr oder weniger regelmässig Rücken
+datePublished: '2017-06-23T10:39:51.042Z'
+dateModified: '2017-06-23T10:39:47.659Z'
 publisher: {}
 author: []
 inFeed: true
+hasPage: true
 description: Das wird sicher auch auf dich zutreffen
 via: {}
-datePublished: '2017-06-22T16:40:13.613Z'
-hasPage: true
 starred: false
 datePublishedOriginal: '2017-06-22T16:40:13.613Z'
 sourcePath: _posts/2017-06-22-das-wird-sicher-auch-auf-dich-zutreffen.md
@@ -17,10 +17,11 @@ _context: 'http://schema.org'
 
 ---
 Das wird sicher auch auf dich zutreffen
-
----
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9482f66-9276-434b-8d27-1b27bf754a3b.jpg)
 
 Aufklärung
+
+---
 
 Freitag, 3\. März 2017 13:53
 
@@ -51,6 +52,8 @@ Das System diese Dysbalancen zu erkennen und zu beseitigen ist eine kleine Revol
 Dieser Ansatz wurde runtergebrochen für die Orthopädischen Einschränkungen die durch den normalen Alltag im Beruf sowie beim Breitensport entstehen.
 
 Sensationelle Ergebnisse bei Orthopädischen Befunden die Teilweise schon einen Termin zu einer OP hatten zeigten wie Umfassend und nachhaltig das Medicaltraining wirkt.
+
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd4078ee-4edf-4c83-8684-bea552f7120c.jpg" /><h1>Schulterschmerz</h1><p>Mit der richtigen Strategie keine Neverending Story</p></article>
 
 Was macht das ganze jetzt interessant für Kraftsportler oder Bodybuilder?
 
