@@ -41,6 +41,9 @@ navigation:
   - name: Medical Fitness / PT
     id: b0bc4906-3d76-457d-8804-8e0560e09ed8
     type: content
+  - name: Systemvorstellung
+    id: 1ef77893-5ec8-4dc8-bae2-b398df767af3
+    type: content
   - name: Saison 2017
     id: cff959ae-89b1-4a93-9920-22ae4475ae0d
     type: content
@@ -49,9 +52,6 @@ navigation:
     type: content
   - name: Impressum
     id: 5046d78d-1d08-4ab2-978a-b61a97f14d5c
-    type: content
-  - name: Systemvorstellung
-    id: 1ef77893-5ec8-4dc8-bae2-b398df767af3
     type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
