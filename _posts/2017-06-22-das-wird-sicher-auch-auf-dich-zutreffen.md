@@ -1,14 +1,14 @@
 ---
 title: 85% der deutschen haben mehr oder weniger regelmässig Rücken
-datePublished: '2017-06-23T10:39:51.042Z'
-dateModified: '2017-06-23T10:39:47.659Z'
+datePublished: '2017-06-24T06:59:50.775Z'
+dateModified: '2017-06-24T06:58:14.278Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: Das wird sicher auch auf dich zutreffen
+description: Aufklärung
 via: {}
-starred: false
+starred: true
 datePublishedOriginal: '2017-06-22T16:40:13.613Z'
 sourcePath: _posts/2017-06-22-das-wird-sicher-auch-auf-dich-zutreffen.md
 url: das-wird-sicher-auch-auf-dich-zutreffen/index.html
@@ -16,14 +16,11 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-Das wird sicher auch auf dich zutreffen
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9482f66-9276-434b-8d27-1b27bf754a3b.jpg)
 
 Aufklärung
 
 ---
-
-Freitag, 3\. März 2017 13:53
 
 Durch meinen Beruf als Personaltrainer bekomme ich zwangsläufig die Unterhaltungen der umstehenden Personen im Gym mit.
 
