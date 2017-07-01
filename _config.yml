@@ -53,6 +53,9 @@ navigation:
   - name: Impressum
     id: 5046d78d-1d08-4ab2-978a-b61a97f14d5c
     type: content
+  - name: Team
+    id: 263374c4-d2b1-423e-b923-aecd0921ff39
+    type: content
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
