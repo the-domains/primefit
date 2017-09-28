@@ -1,12 +1,12 @@
 ---
-title: 85% der deutschen haben mehr oder weniger regelmässig Rücken
-datePublished: '2017-06-24T06:59:50.775Z'
-dateModified: '2017-06-24T06:58:14.278Z'
+title: Schulterschmerz
+datePublished: '2017-09-28T11:44:26.593Z'
+dateModified: '2017-09-28T11:44:24.373Z'
 publisher: {}
 author: []
 inFeed: true
 hasPage: true
-description: Aufklärung
+description: 'Es wird Zeit was zu ändern.. '
 via: {}
 starred: true
 datePublishedOriginal: '2017-06-22T16:40:13.613Z'
@@ -16,9 +16,7 @@ _type: Article
 _context: 'http://schema.org'
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9482f66-9276-434b-8d27-1b27bf754a3b.jpg)
-
-Aufklärung
+Es wird Zeit was zu ändern.. 
 
 ---
 
